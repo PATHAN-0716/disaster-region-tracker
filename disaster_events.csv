@@ -1,0 +1,1051 @@
+event_id,disaster_type,region,event_date,severity
+1,,West Bengal,,Medium
+2,Cyclone,Gujarat,2021-07-29,High
+3,,West Bengal,2021-03-07,Low
+4,Flood,Gujarat,2021-02-24,High
+5,Cyclone,Bihar,2022-07-24,Low
+6,Cyclone,Bihar,2021-11-15,Low
+7,Earthquake,West Bengal,2021-07-18,Medium
+8,Earthquake,Kerala,2023-07-30,High
+9,Flood,Bihar,2022-08-24,High
+10,Drought,Tamil Nadu,2021-05-23,Low
+11,,Gujarat,2021-06-13,Low
+12,Flood,Bihar,2023-01-18,Low
+13,Earthquake,Tamil Nadu,2022-07-01,High
+14,,West Bengal,2021-12-17,High
+15,,Gujarat,2023-02-17,Medium
+16,,Gujarat,2021-04-25,Low
+17,Flood,Tamil Nadu,2021-05-16,Low
+18,Drought,Tamil Nadu,2023-10-20,Medium
+19,,UP,2021-10-13,Low
+20,,Kerala,2023-05-28,High
+21,Landslide,Tamil Nadu,2021-10-11,High
+22,Landslide,West Bengal,2021-08-13,Low
+23,,Assam,2023-05-15,High
+24,Flood,Bihar,2023-08-17,High
+25,Earthquake,Odisha,2021-08-23,High
+26,Drought,Kerala,2022-11-28,Low
+27,Earthquake,Bihar,2021-01-07,High
+28,,Kerala,2022-01-01,High
+29,Flood,Kerala,2023-11-06,High
+30,Cyclone,Assam,2021-11-27,High
+31,Drought,Odisha,2023-09-28,Low
+32,Flood,Tamil Nadu,2022-09-22,Low
+33,Flood,Gujarat,2021-06-11,Low
+34,,UP,2023-12-27,Low
+35,Cyclone,UP,2021-12-05,Medium
+36,Drought,Bihar,2024-01-10,High
+37,,Gujarat,2023-03-29,High
+38,,Tamil Nadu,2023-11-26,Medium
+39,Flood,Gujarat,2022-11-24,Low
+40,Drought,Gujarat,2021-01-15,Low
+41,,Odisha,2021-03-06,Medium
+42,Flood,Gujarat,2023-09-22,Low
+43,Drought,Assam,2024-03-15,High
+44,Landslide,Gujarat,2023-04-14,Low
+45,Flood,West Bengal,2022-12-27,Medium
+46,Landslide,UP,2021-04-21,High
+47,,West Bengal,2022-11-26,Low
+48,Cyclone,Gujarat,2023-07-08,Low
+49,Landslide,Assam,2022-05-27,Low
+50,Landslide,West Bengal,2024-01-13,Low
+51,Flood,Gujarat,2023-09-22,Medium
+52,Cyclone,Bihar,2021-12-04,Medium
+53,Flood,Bihar,2023-07-21,Medium
+54,Landslide,UP,2022-08-31,Low
+55,Flood,Odisha,2021-04-28,Low
+56,Drought,UP,2023-12-24,Low
+57,Flood,West Bengal,2021-05-21,High
+58,Flood,Gujarat,2024-03-12,Low
+59,Drought,Odisha,2023-05-09,High
+60,Drought,Tamil Nadu,2022-02-23,High
+61,,Tamil Nadu,2023-03-22,Low
+62,,Kerala,2021-05-29,Low
+63,Landslide,West Bengal,2022-03-13,High
+64,Earthquake,Assam,2021-05-21,Low
+65,Earthquake,Kerala,2024-01-18,High
+66,Earthquake,Odisha,2024-02-10,Medium
+67,,West Bengal,2021-10-03,Medium
+68,Flood,West Bengal,2021-11-15,Medium
+69,Earthquake,Gujarat,2022-02-21,High
+70,,Kerala,2022-05-30,Low
+71,Flood,Bihar,2021-04-01,Low
+72,Earthquake,Assam,2022-06-21,Low
+73,,UP,2023-05-26,High
+74,Flood,West Bengal,2021-11-02,High
+75,Flood,Tamil Nadu,2021-10-31,Medium
+76,Cyclone,Odisha,2021-03-23,Medium
+77,Cyclone,Gujarat,2022-12-26,High
+78,Landslide,Assam,2022-04-30,Low
+79,Cyclone,Bihar,,High
+80,Earthquake,Bihar,2022-05-24,Medium
+81,Cyclone,West Bengal,2021-03-21,Medium
+82,Cyclone,Gujarat,2023-08-01,Medium
+83,Earthquake,Gujarat,2022-01-31,Medium
+84,Earthquake,Kerala,2022-07-26,Medium
+85,,Bihar,2024-01-04,Medium
+86,Flood,West Bengal,2022-06-19,Low
+87,Drought,Kerala,,High
+88,Landslide,Tamil Nadu,2022-10-05,Medium
+89,Drought,West Bengal,2024-03-26,Low
+90,Earthquake,Odisha,2021-01-04,High
+91,Drought,Gujarat,2021-05-24,High
+92,Earthquake,Tamil Nadu,2021-09-13,High
+93,Earthquake,Kerala,2022-10-31,Medium
+94,,Kerala,2022-01-28,Medium
+95,,Bihar,2021-12-23,High
+96,Drought,Kerala,2021-01-01,Medium
+97,Earthquake,Gujarat,2024-04-02,High
+98,,Tamil Nadu,2023-06-25,High
+99,Cyclone,UP,2021-12-14,High
+100,Flood,Kerala,2022-11-18,Low
+101,Cyclone,Kerala,2022-02-12,Low
+102,Flood,Odisha,2023-09-01,High
+103,Flood,UP,2024-03-24,Low
+104,,Bihar,2022-05-15,Low
+105,,Odisha,2021-08-07,Medium
+106,Cyclone,Assam,2023-11-27,Medium
+107,Flood,Gujarat,2021-09-06,Medium
+108,Cyclone,UP,2024-02-19,High
+109,Earthquake,UP,2023-10-31,Medium
+110,Drought,UP,2023-08-31,Medium
+111,Earthquake,Gujarat,2022-07-22,High
+112,Landslide,Gujarat,2021-06-08,High
+113,Earthquake,Gujarat,2022-10-17,High
+114,Flood,Assam,2023-02-24,High
+115,Cyclone,Gujarat,2023-04-15,Medium
+116,Drought,UP,2022-02-28,Medium
+117,Landslide,Odisha,2024-03-25,Medium
+118,Landslide,Odisha,2022-09-04,Medium
+119,Landslide,Gujarat,2022-07-13,Medium
+120,Landslide,Odisha,2023-04-09,High
+121,Cyclone,UP,2023-12-30,Low
+122,Landslide,Odisha,2023-05-28,Low
+123,Landslide,Assam,2023-02-16,Medium
+124,Cyclone,UP,2023-02-16,Medium
+125,Landslide,Kerala,2023-08-22,Low
+126,,Odisha,2022-12-18,Low
+127,,West Bengal,2021-03-24,Low
+128,Cyclone,Gujarat,2021-11-09,Low
+129,Cyclone,UP,2024-03-01,Low
+130,Landslide,Kerala,2021-12-10,High
+131,Drought,West Bengal,2021-12-02,Medium
+132,Flood,Odisha,2024-03-25,High
+133,Landslide,Bihar,2022-02-11,Low
+134,Drought,Gujarat,2022-09-10,High
+135,Drought,West Bengal,2024-03-05,Low
+136,Earthquake,Bihar,2021-05-22,High
+137,,Tamil Nadu,,Medium
+138,Landslide,West Bengal,2023-01-12,High
+139,Landslide,Assam,2023-12-05,High
+140,Earthquake,UP,2022-07-04,Medium
+141,Cyclone,West Bengal,2023-07-13,Low
+142,Landslide,Bihar,2023-10-10,Medium
+143,Cyclone,UP,2022-06-14,Medium
+144,Earthquake,Kerala,2023-11-25,Low
+145,Flood,Gujarat,2023-09-28,High
+146,Cyclone,UP,2023-10-03,Medium
+147,Flood,West Bengal,2023-04-09,High
+148,Cyclone,Kerala,2023-01-26,Medium
+149,Drought,Tamil Nadu,2024-02-02,Medium
+150,Earthquake,UP,2022-05-30,Low
+151,Flood,Gujarat,2024-01-03,High
+152,Cyclone,Gujarat,2023-09-19,Medium
+153,,Kerala,2022-02-02,Medium
+154,Cyclone,Tamil Nadu,2021-01-29,High
+155,Drought,Assam,2021-04-22,High
+156,Earthquake,Assam,2023-10-03,Low
+157,Flood,Kerala,2023-06-22,Medium
+158,Cyclone,Odisha,2023-09-06,Low
+159,Flood,Bihar,2024-03-27,High
+160,,Odisha,2024-02-27,Medium
+161,Flood,Gujarat,2023-05-03,High
+162,Drought,Gujarat,2023-02-19,Medium
+163,Landslide,Kerala,2023-05-29,Medium
+164,Drought,Odisha,2021-07-23,Low
+165,,Gujarat,2021-06-16,Low
+166,Cyclone,Assam,2021-11-17,Low
+167,Landslide,UP,2023-08-21,Medium
+168,Flood,Gujarat,2022-08-03,High
+169,Landslide,West Bengal,2022-06-26,High
+170,Drought,Gujarat,2024-01-21,Low
+171,,Assam,2021-10-19,Low
+172,Flood,Assam,2024-03-11,Medium
+173,Landslide,West Bengal,2022-09-15,High
+174,Landslide,Kerala,2023-10-09,Medium
+175,Flood,Odisha,2022-10-23,High
+176,Earthquake,Odisha,2024-03-24,High
+177,Flood,Kerala,2021-12-25,Medium
+178,Drought,UP,2022-01-07,High
+179,Landslide,UP,2023-08-21,Medium
+180,Landslide,Tamil Nadu,2021-08-03,Low
+181,Earthquake,Bihar,2022-08-14,High
+182,Landslide,Odisha,2022-10-07,Medium
+183,Earthquake,West Bengal,2023-04-08,High
+184,Flood,UP,2022-01-20,High
+185,Earthquake,UP,2021-04-16,Low
+186,Earthquake,Assam,2023-06-17,High
+187,Landslide,West Bengal,,High
+188,Drought,Gujarat,2022-09-29,High
+189,Flood,Bihar,2021-08-21,Medium
+190,Flood,Assam,2022-08-21,High
+191,,Kerala,2023-09-16,Medium
+192,Cyclone,UP,2023-02-25,Low
+193,Drought,Assam,2022-07-20,Medium
+194,Earthquake,Kerala,2022-08-03,High
+195,Earthquake,UP,2023-07-04,High
+196,Landslide,Tamil Nadu,2024-01-18,Medium
+197,Landslide,Tamil Nadu,2022-05-05,High
+198,Landslide,Gujarat,2023-04-22,Low
+199,Earthquake,UP,2023-02-20,Medium
+200,,Assam,2021-03-17,Low
+201,Drought,Tamil Nadu,2023-06-21,Low
+202,Drought,UP,,Low
+203,Landslide,Assam,2022-06-27,Medium
+204,Drought,Bihar,2022-11-04,High
+205,Drought,Bihar,2023-09-27,High
+206,Flood,West Bengal,2022-08-12,Low
+207,,West Bengal,2021-07-21,High
+208,,West Bengal,2022-09-06,Low
+209,Flood,Tamil Nadu,2022-08-24,Medium
+210,Earthquake,Bihar,2023-12-24,Medium
+211,Drought,Assam,2021-06-11,High
+212,Landslide,Gujarat,2024-04-09,Low
+213,Cyclone,UP,2023-07-31,Medium
+214,,Odisha,2023-08-11,Medium
+215,,Assam,2022-12-09,High
+216,Earthquake,Bihar,2023-07-25,Medium
+217,Cyclone,Bihar,2021-08-07,Low
+218,Landslide,Tamil Nadu,2022-08-28,Low
+219,,Bihar,2024-03-05,High
+220,,Odisha,2023-10-15,Medium
+221,Cyclone,Tamil Nadu,2022-01-25,High
+222,Earthquake,Assam,2021-03-22,Medium
+223,Landslide,Odisha,2021-09-27,Low
+224,Earthquake,Tamil Nadu,2021-12-26,Low
+225,Cyclone,Tamil Nadu,2022-07-13,Low
+226,Earthquake,UP,2022-08-28,High
+227,Earthquake,West Bengal,2021-06-04,Low
+228,Cyclone,Bihar,2024-02-16,Medium
+229,Flood,Bihar,,High
+230,Flood,UP,2022-06-21,High
+231,Landslide,Tamil Nadu,2022-04-24,Medium
+232,Flood,Tamil Nadu,2022-03-30,High
+233,Flood,UP,2022-09-11,High
+234,Landslide,West Bengal,2021-03-18,Medium
+235,Landslide,West Bengal,2024-01-06,Low
+236,Landslide,UP,2024-01-12,Medium
+237,Drought,Assam,2021-07-22,Medium
+238,Drought,Bihar,2022-07-27,Low
+239,,Tamil Nadu,2023-06-30,Low
+240,Earthquake,West Bengal,2023-01-23,High
+241,,Tamil Nadu,2022-07-20,Low
+242,Flood,UP,2022-03-11,High
+243,,Odisha,2022-11-15,Low
+244,Cyclone,Gujarat,2024-02-10,Low
+245,Drought,Gujarat,2022-04-23,Medium
+246,Cyclone,Odisha,2021-10-24,Low
+247,Drought,Kerala,2021-08-14,High
+248,Flood,Assam,,Low
+249,Drought,Tamil Nadu,,Medium
+250,Flood,Assam,2023-12-14,Low
+251,,West Bengal,2023-01-12,High
+252,Drought,West Bengal,2022-03-30,High
+253,Flood,Kerala,2021-03-05,Low
+254,Landslide,Bihar,2021-08-10,Medium
+255,,UP,2021-06-15,Medium
+256,Drought,Assam,2022-07-18,High
+257,,Tamil Nadu,2023-12-23,Medium
+258,Landslide,Bihar,2021-08-23,High
+259,,Gujarat,2022-04-13,Medium
+260,Earthquake,UP,2021-07-14,Medium
+261,Landslide,Tamil Nadu,2023-02-06,Low
+262,,UP,2021-06-24,Low
+263,Landslide,West Bengal,2023-02-03,Low
+264,Drought,Odisha,2024-02-25,High
+265,Earthquake,West Bengal,2023-05-17,High
+266,Flood,Kerala,2022-12-22,Low
+267,Drought,Gujarat,2023-09-15,Low
+268,Flood,Tamil Nadu,2023-01-23,Low
+269,Earthquake,Gujarat,2024-02-23,High
+270,Drought,Odisha,2022-07-02,Low
+271,Cyclone,Kerala,2022-09-25,Medium
+272,Earthquake,Odisha,2021-10-21,High
+273,,Bihar,2021-03-04,Low
+274,,Gujarat,2023-07-19,Medium
+275,Cyclone,Tamil Nadu,2022-10-27,High
+276,Drought,West Bengal,2021-11-15,Low
+277,Drought,Odisha,2022-07-12,Medium
+278,,Bihar,2023-06-25,Medium
+279,Earthquake,Gujarat,2021-08-22,Medium
+280,Landslide,West Bengal,2023-09-24,High
+281,,Kerala,,Medium
+282,Drought,Odisha,,Medium
+283,Cyclone,Assam,2022-08-16,Medium
+284,Flood,Odisha,2023-06-01,Low
+285,Cyclone,Bihar,2022-04-17,High
+286,Drought,Tamil Nadu,2021-03-28,Medium
+287,Flood,UP,2022-10-04,High
+288,Landslide,Bihar,2023-05-06,Medium
+289,Flood,Bihar,,Medium
+290,Cyclone,UP,2023-01-12,Low
+291,Landslide,West Bengal,2023-04-01,High
+292,Flood,Bihar,2022-11-27,Low
+293,Earthquake,Assam,2021-08-22,High
+294,Drought,Gujarat,2022-12-17,Medium
+295,,Assam,2021-10-27,Medium
+296,Cyclone,Assam,2021-06-04,Low
+297,,UP,2024-02-29,High
+298,Landslide,Tamil Nadu,2022-10-10,Low
+299,Landslide,West Bengal,2022-09-13,Medium
+300,Drought,Odisha,2021-06-01,Medium
+301,Landslide,UP,,Medium
+302,Earthquake,West Bengal,2021-07-04,High
+303,Drought,Bihar,2024-02-10,High
+304,Flood,UP,2024-03-16,High
+305,Cyclone,Tamil Nadu,2023-10-24,Low
+306,Flood,UP,2022-12-05,High
+307,Flood,Assam,,High
+308,Landslide,UP,2021-11-22,Medium
+309,Earthquake,Kerala,2022-11-24,High
+310,Drought,Odisha,2022-11-17,Low
+311,Earthquake,West Bengal,2023-03-03,Medium
+312,Earthquake,Assam,2024-04-08,High
+313,Cyclone,Tamil Nadu,2023-03-14,Low
+314,Drought,West Bengal,2023-02-11,High
+315,Earthquake,Assam,2023-12-15,Low
+316,,Bihar,2021-02-07,Medium
+317,Earthquake,Assam,2022-12-01,Medium
+318,Cyclone,Gujarat,2021-11-14,Low
+319,Earthquake,West Bengal,2024-01-11,High
+320,Drought,Odisha,2021-09-26,High
+321,Landslide,Assam,2021-12-06,High
+322,Landslide,Odisha,2022-05-02,Medium
+323,Drought,Kerala,2023-07-09,Low
+324,Drought,Gujarat,2023-08-19,Low
+325,Earthquake,UP,2022-08-01,Medium
+326,Drought,Bihar,2022-02-13,High
+327,Cyclone,Kerala,2023-09-12,Medium
+328,Drought,West Bengal,2023-11-23,Low
+329,Earthquake,West Bengal,2022-07-13,Medium
+330,Drought,Assam,2021-07-07,Low
+331,Landslide,Tamil Nadu,2023-04-30,Low
+332,Landslide,Tamil Nadu,2021-06-17,Medium
+333,Cyclone,Odisha,2021-07-22,High
+334,,Tamil Nadu,2021-10-09,Low
+335,Earthquake,UP,2021-10-12,High
+336,Landslide,UP,2021-06-12,Low
+337,Earthquake,Gujarat,2024-01-29,High
+338,Drought,Bihar,2022-08-14,Low
+339,Earthquake,West Bengal,,Medium
+340,,UP,2023-10-21,High
+341,Drought,Odisha,2024-03-23,Low
+342,,Assam,2021-01-04,High
+343,Earthquake,Gujarat,2022-01-19,High
+344,,West Bengal,2023-01-09,Low
+345,Drought,Odisha,2023-08-21,Low
+346,,Bihar,2022-06-04,High
+347,Flood,Tamil Nadu,2022-12-08,Low
+348,,West Bengal,2022-11-12,Low
+349,Flood,Tamil Nadu,2021-12-25,High
+350,Landslide,UP,2021-10-04,Low
+351,,UP,,Low
+352,Flood,Gujarat,2022-10-09,Medium
+353,Drought,Bihar,2024-01-18,Medium
+354,Earthquake,Odisha,2022-01-27,Medium
+355,Earthquake,Odisha,2022-11-11,Medium
+356,Flood,Tamil Nadu,2023-03-31,High
+357,Landslide,Bihar,2022-01-18,Medium
+358,,UP,2023-11-30,Medium
+359,Flood,Bihar,2022-01-05,High
+360,Earthquake,Tamil Nadu,2022-11-03,High
+361,Earthquake,Kerala,2023-05-23,Low
+362,,UP,2021-03-28,High
+363,Earthquake,Bihar,2021-04-28,Low
+364,,Bihar,2021-11-24,Low
+365,Cyclone,UP,,Low
+366,Cyclone,Tamil Nadu,2024-03-07,Low
+367,Drought,Assam,2023-01-30,Medium
+368,Landslide,West Bengal,2023-12-21,Medium
+369,Landslide,Tamil Nadu,2022-05-27,Low
+370,Flood,Assam,2023-03-04,High
+371,Flood,Kerala,2023-07-03,Low
+372,Drought,Kerala,2023-10-03,Low
+373,Flood,Assam,2023-07-15,Low
+374,,UP,2022-10-17,High
+375,Earthquake,West Bengal,2022-08-18,Medium
+376,Cyclone,Assam,2023-11-08,Low
+377,Flood,Gujarat,2022-04-30,Medium
+378,Flood,Tamil Nadu,2023-01-26,Medium
+379,Drought,Assam,2021-06-26,Low
+380,Earthquake,Bihar,2023-09-08,High
+381,Landslide,Bihar,2021-06-01,Low
+382,Earthquake,West Bengal,2023-11-26,Medium
+383,Cyclone,Assam,2021-09-22,Medium
+384,Drought,Odisha,2023-11-28,Low
+385,Earthquake,Assam,2022-04-07,Medium
+386,Drought,Kerala,2022-05-29,Low
+387,,Kerala,2022-09-13,High
+388,Drought,West Bengal,2021-12-12,High
+389,Drought,Assam,2022-11-23,High
+390,Flood,Odisha,2024-03-27,Medium
+391,,Gujarat,2023-05-04,High
+392,,Odisha,2024-01-23,Medium
+393,,Kerala,2023-04-12,Medium
+394,Landslide,West Bengal,2021-11-20,Medium
+395,Landslide,UP,2022-11-28,High
+396,Cyclone,Tamil Nadu,2022-10-16,High
+397,Earthquake,Bihar,2023-01-29,High
+398,Drought,West Bengal,2023-08-14,Low
+399,Earthquake,UP,2021-07-18,Low
+400,Earthquake,Bihar,2023-05-07,Low
+401,Cyclone,Tamil Nadu,2022-10-03,Low
+402,Cyclone,UP,2023-08-15,Medium
+403,Earthquake,UP,,Medium
+404,Drought,UP,2022-03-17,High
+405,Earthquake,Odisha,2023-10-11,High
+406,,UP,2021-01-17,Low
+407,Landslide,Assam,2023-01-20,Medium
+408,Earthquake,Odisha,2024-03-13,High
+409,Cyclone,Tamil Nadu,2021-05-31,Medium
+410,Drought,UP,2022-07-27,High
+411,,West Bengal,2021-07-18,Medium
+412,Earthquake,Tamil Nadu,2023-01-19,Low
+413,Cyclone,Bihar,2021-04-03,Low
+414,Cyclone,Tamil Nadu,2023-11-30,Medium
+415,Cyclone,Assam,2022-10-15,Low
+416,Landslide,Kerala,2023-11-05,High
+417,Drought,UP,2022-09-06,Medium
+418,Flood,Tamil Nadu,2021-08-13,Medium
+419,Drought,Kerala,2021-02-24,High
+420,Landslide,Kerala,2024-03-30,High
+421,Cyclone,Odisha,2021-12-16,High
+422,,Bihar,2022-05-12,Low
+423,Drought,West Bengal,2023-06-23,Medium
+424,Landslide,Assam,2022-02-22,Medium
+425,Drought,UP,2021-05-08,High
+426,Cyclone,Gujarat,2023-09-07,High
+427,Landslide,Tamil Nadu,2023-07-31,High
+428,Earthquake,Tamil Nadu,2022-06-26,High
+429,Landslide,Gujarat,2022-07-26,High
+430,Earthquake,Gujarat,2022-09-02,Medium
+431,,Gujarat,2023-09-29,Medium
+432,Landslide,Tamil Nadu,2022-07-15,Medium
+433,Flood,Bihar,2023-03-20,Medium
+434,Cyclone,Kerala,,High
+435,Flood,Tamil Nadu,2022-06-10,High
+436,Landslide,Gujarat,2024-01-09,Medium
+437,Drought,Kerala,2022-05-06,Low
+438,Flood,Gujarat,2021-04-18,Low
+439,Landslide,Tamil Nadu,2021-07-25,High
+440,Cyclone,Odisha,2021-11-20,Medium
+441,,UP,2022-02-13,Medium
+442,Earthquake,Kerala,2021-07-03,High
+443,Drought,Gujarat,2021-03-18,Low
+444,Landslide,Assam,2021-03-16,Medium
+445,Landslide,Assam,2022-08-16,Low
+446,Flood,Kerala,2021-08-08,Medium
+447,Earthquake,UP,2024-01-18,High
+448,Landslide,Assam,2023-08-17,Medium
+449,Cyclone,West Bengal,2023-07-29,High
+450,Earthquake,Assam,,Medium
+451,Earthquake,Gujarat,2023-04-11,Medium
+452,Drought,Tamil Nadu,2021-07-15,Low
+453,Cyclone,UP,2022-05-24,Low
+454,Earthquake,Bihar,2022-07-01,Medium
+455,Earthquake,Odisha,2023-01-07,High
+456,Cyclone,Odisha,2023-08-12,Medium
+457,Cyclone,Bihar,2022-09-29,High
+458,Flood,Kerala,2022-03-29,Low
+459,Cyclone,UP,2023-02-05,Medium
+460,,UP,2022-03-24,Low
+461,,West Bengal,2023-12-18,High
+462,Earthquake,West Bengal,2021-08-18,Low
+463,Drought,Gujarat,2021-11-03,Low
+464,Earthquake,UP,2022-02-25,High
+465,Drought,UP,2023-11-12,Medium
+466,Flood,UP,2023-05-01,Medium
+467,Drought,Odisha,2022-09-24,High
+468,Flood,Bihar,2021-01-07,High
+469,Cyclone,West Bengal,,Medium
+470,,West Bengal,2021-05-04,Low
+471,Landslide,Odisha,2022-01-04,Low
+472,,Bihar,2023-02-23,Medium
+473,Landslide,Bihar,2024-01-10,Low
+474,,Tamil Nadu,2024-01-06,Medium
+475,Drought,Assam,2022-04-02,Low
+476,Flood,Kerala,2024-01-21,Medium
+477,Drought,Bihar,2022-05-22,Medium
+478,Earthquake,Assam,2021-08-20,Low
+479,,Bihar,2021-02-02,Low
+480,Cyclone,West Bengal,2021-03-10,Medium
+481,Drought,Odisha,2021-04-01,Medium
+482,Landslide,Gujarat,2021-04-26,Low
+483,Drought,Kerala,2024-03-25,Medium
+484,Drought,Tamil Nadu,2021-10-21,High
+485,Drought,Gujarat,2022-07-18,Low
+486,Drought,Assam,2023-05-25,High
+487,Landslide,Odisha,2023-02-20,High
+488,Earthquake,Bihar,2022-09-07,Medium
+489,Cyclone,UP,2022-04-07,Medium
+490,,Assam,2021-04-29,High
+491,Landslide,Bihar,2021-10-02,Medium
+492,Cyclone,Kerala,2021-06-11,Medium
+493,Earthquake,West Bengal,2022-01-26,Low
+494,Earthquake,Bihar,2021-03-22,Low
+495,Cyclone,Gujarat,2022-11-13,Medium
+496,Flood,Gujarat,2021-08-29,High
+497,Landslide,Gujarat,2022-02-23,Medium
+498,Cyclone,Tamil Nadu,2023-02-19,Medium
+499,Drought,Tamil Nadu,2023-01-07,High
+500,Landslide,UP,2023-08-20,Medium
+501,Cyclone,Tamil Nadu,2021-04-04,High
+502,Cyclone,Assam,,High
+503,Drought,Bihar,2022-02-06,Medium
+504,Cyclone,Bihar,2022-05-19,Medium
+505,Drought,Tamil Nadu,2023-09-28,High
+506,,UP,2022-12-23,Low
+507,Cyclone,UP,2024-01-16,High
+508,Flood,Odisha,2021-06-02,High
+509,Flood,Odisha,2022-04-19,Low
+510,,Assam,,High
+511,Landslide,Tamil Nadu,2023-09-17,High
+512,Landslide,Odisha,,High
+513,Landslide,Odisha,,High
+514,Earthquake,Kerala,,High
+515,,Bihar,2022-01-03,Low
+516,Flood,Assam,2023-12-15,Medium
+517,Earthquake,Kerala,2021-06-11,Medium
+518,Landslide,UP,2022-04-08,Medium
+519,,West Bengal,2021-03-06,Low
+520,Landslide,Bihar,2023-09-02,Low
+521,,Odisha,2021-06-19,Medium
+522,Landslide,Tamil Nadu,2021-07-15,High
+523,Flood,Gujarat,2024-03-06,Medium
+524,Earthquake,Odisha,2022-07-29,High
+525,Drought,Odisha,2022-10-07,Low
+526,Cyclone,Assam,2023-03-27,Low
+527,Earthquake,Assam,2024-03-06,Medium
+528,,Tamil Nadu,2021-10-14,High
+529,,West Bengal,2022-12-10,Low
+530,Flood,Bihar,2021-06-05,Medium
+531,Drought,Bihar,2022-10-31,Low
+532,,Kerala,2023-07-12,Medium
+533,Cyclone,Tamil Nadu,2023-02-08,Medium
+534,Cyclone,Bihar,2022-08-28,Low
+535,,West Bengal,2021-11-12,Medium
+536,,Assam,2022-10-11,Medium
+537,Flood,West Bengal,,Medium
+538,Landslide,Tamil Nadu,2021-07-29,Low
+539,Flood,Assam,2024-02-15,High
+540,Drought,Bihar,2021-07-03,Medium
+541,Drought,West Bengal,2022-10-27,Medium
+542,Flood,Kerala,2021-06-23,High
+543,Drought,Gujarat,2021-12-14,High
+544,Landslide,Assam,2022-09-09,Medium
+545,Landslide,Assam,2023-06-10,Medium
+546,Landslide,Kerala,2021-06-07,Medium
+547,Earthquake,Gujarat,2023-10-13,High
+548,Drought,Gujarat,2021-10-05,Medium
+549,Flood,Bihar,2023-02-18,Medium
+550,Landslide,Tamil Nadu,2021-10-06,Medium
+551,Earthquake,Gujarat,2021-12-30,Medium
+552,Earthquake,Kerala,2023-10-03,High
+553,Cyclone,Tamil Nadu,2023-03-16,Medium
+554,Flood,Gujarat,2024-01-23,Low
+555,,Odisha,2023-08-04,High
+556,Cyclone,UP,2021-05-22,Medium
+557,,UP,2022-09-13,Low
+558,Earthquake,Assam,2023-02-12,Low
+559,Landslide,UP,2023-12-31,High
+560,,Bihar,2023-01-07,High
+561,Drought,West Bengal,2022-05-24,High
+562,,Tamil Nadu,2021-04-01,High
+563,,Bihar,2022-11-11,Medium
+564,Flood,Odisha,2022-03-31,High
+565,,Gujarat,2023-03-13,Medium
+566,,Assam,2021-02-20,Medium
+567,Flood,Kerala,2021-06-25,Low
+568,,Assam,2022-12-04,Medium
+569,Cyclone,UP,2021-07-19,Medium
+570,,UP,2022-09-07,Low
+571,,West Bengal,,Medium
+572,,West Bengal,2021-12-03,High
+573,Cyclone,Assam,2022-11-09,High
+574,Landslide,UP,2023-04-10,High
+575,Cyclone,Assam,2023-06-05,Medium
+576,Flood,Gujarat,2023-05-30,Medium
+577,Flood,Gujarat,2021-05-09,High
+578,Flood,Assam,2022-02-08,Medium
+579,Flood,Kerala,2023-09-30,High
+580,,Tamil Nadu,2023-03-15,High
+581,Flood,Tamil Nadu,2023-07-27,High
+582,Cyclone,Kerala,2021-06-23,High
+583,Cyclone,Tamil Nadu,2022-09-18,Low
+584,Cyclone,Tamil Nadu,2023-11-13,Medium
+585,Landslide,Assam,2023-05-17,Low
+586,Landslide,Assam,2023-09-30,Medium
+587,Cyclone,Assam,2023-07-13,High
+588,Flood,Tamil Nadu,2023-09-20,Low
+589,Cyclone,Bihar,2023-11-02,High
+590,Landslide,Bihar,2023-05-02,High
+591,Landslide,UP,2024-03-03,Low
+592,Cyclone,Kerala,,Low
+593,Drought,Kerala,2023-07-26,High
+594,,UP,2021-08-20,High
+595,Flood,Kerala,2023-01-22,High
+596,Flood,UP,2023-05-21,Low
+597,,Gujarat,2021-03-08,Medium
+598,Earthquake,Tamil Nadu,2021-06-28,Medium
+599,Flood,Gujarat,2022-12-20,High
+600,Drought,Bihar,2021-10-13,Low
+601,Cyclone,Odisha,2023-12-27,Medium
+602,Drought,Assam,2022-08-23,Medium
+603,Drought,Kerala,2023-11-20,High
+604,Flood,Assam,2023-04-23,Low
+605,Earthquake,Assam,2021-09-29,Low
+606,Cyclone,Tamil Nadu,2023-03-16,Medium
+607,Cyclone,Kerala,2023-02-08,Medium
+608,Flood,West Bengal,2022-07-24,High
+609,Earthquake,UP,2022-11-02,High
+610,Flood,West Bengal,2023-07-28,High
+611,,Tamil Nadu,2023-12-31,Medium
+612,Cyclone,Bihar,2023-10-11,Medium
+613,Earthquake,Kerala,2024-03-29,Low
+614,Drought,UP,2021-04-10,Low
+615,Flood,UP,,Low
+616,Landslide,UP,,Medium
+617,Cyclone,Assam,2022-09-11,Low
+618,Earthquake,West Bengal,2022-05-28,Low
+619,Earthquake,Assam,2022-09-18,High
+620,,Gujarat,2021-07-06,High
+621,Flood,Odisha,2021-06-09,Low
+622,Drought,Gujarat,2023-07-01,Low
+623,Flood,Tamil Nadu,2023-05-15,High
+624,Cyclone,UP,2023-02-24,Low
+625,,West Bengal,2023-01-23,Medium
+626,Cyclone,Bihar,2021-09-30,High
+627,,Assam,2024-02-28,Low
+628,Drought,Assam,2022-03-13,High
+629,,Assam,2023-06-26,Low
+630,Flood,West Bengal,2021-09-10,High
+631,,Bihar,2023-05-30,Medium
+632,Cyclone,Gujarat,2021-06-22,Low
+633,Drought,Kerala,2021-02-24,High
+634,Earthquake,Gujarat,2023-11-10,Low
+635,,Bihar,2021-04-22,Low
+636,Landslide,Bihar,2023-10-21,High
+637,Drought,West Bengal,2021-01-25,Medium
+638,Earthquake,Assam,2024-03-10,Medium
+639,Earthquake,Assam,2021-05-30,Low
+640,Drought,West Bengal,,Low
+641,Flood,Odisha,2023-03-27,High
+642,Earthquake,Bihar,2023-04-04,Low
+643,,Assam,2022-09-27,Low
+644,Drought,Gujarat,2021-11-15,High
+645,Earthquake,Bihar,2021-05-16,Medium
+646,,Bihar,2022-05-04,Low
+647,Cyclone,West Bengal,2021-08-26,Medium
+648,Drought,Odisha,2021-12-26,Low
+649,Flood,Assam,2021-12-02,Medium
+650,Earthquake,Kerala,2021-09-17,High
+651,Earthquake,West Bengal,2021-03-02,Medium
+652,Landslide,Kerala,2022-06-23,High
+653,Drought,West Bengal,2023-11-13,Medium
+654,Flood,UP,2021-12-08,Medium
+655,Cyclone,Kerala,2024-03-21,High
+656,,West Bengal,2023-11-09,Low
+657,Flood,Odisha,2023-08-25,Medium
+658,Landslide,Assam,2021-03-14,High
+659,,Bihar,2022-05-24,Medium
+660,,Tamil Nadu,2021-06-09,High
+661,Earthquake,West Bengal,2021-04-18,Low
+662,Cyclone,Odisha,2021-05-22,Medium
+663,Earthquake,Kerala,2024-02-07,Medium
+664,Flood,Tamil Nadu,2024-02-29,Medium
+665,,Gujarat,2023-10-08,Low
+666,,Gujarat,2023-04-20,Low
+667,Cyclone,Tamil Nadu,2021-01-20,Medium
+668,Flood,Bihar,2022-09-22,Low
+669,Cyclone,Gujarat,2021-05-03,Low
+670,,Kerala,2022-04-20,High
+671,Landslide,Tamil Nadu,2021-06-23,High
+672,Flood,Assam,2023-03-19,Low
+673,Drought,Odisha,2021-09-25,Low
+674,Earthquake,Kerala,2023-03-16,High
+675,,Tamil Nadu,2022-07-11,Low
+676,Flood,Gujarat,2024-04-12,Low
+677,Cyclone,West Bengal,2023-08-13,Medium
+678,Landslide,West Bengal,2022-03-02,Medium
+679,Earthquake,UP,2021-09-03,Low
+680,Cyclone,Kerala,2021-03-24,Low
+681,Earthquake,Assam,2022-05-24,Medium
+682,Landslide,Odisha,2022-06-17,Low
+683,Flood,Bihar,2024-02-13,High
+684,Drought,Gujarat,2021-07-28,Low
+685,Flood,Odisha,2022-04-01,Low
+686,Cyclone,Bihar,2021-06-22,High
+687,Drought,Kerala,2021-06-03,Low
+688,Flood,Gujarat,2023-06-28,Low
+689,Flood,Tamil Nadu,2023-08-03,Low
+690,Cyclone,Bihar,2023-03-20,Medium
+691,Flood,Bihar,2021-12-20,Medium
+692,Cyclone,Assam,2023-07-03,Low
+693,Flood,Gujarat,2023-10-19,Medium
+694,Drought,UP,2022-07-27,Medium
+695,Cyclone,Bihar,2023-12-13,Low
+696,,Odisha,2023-01-06,Medium
+697,Drought,UP,2024-03-04,High
+698,Earthquake,Bihar,2021-02-23,Medium
+699,Drought,Gujarat,,Medium
+700,Flood,UP,2024-04-11,Low
+701,Cyclone,West Bengal,2022-05-09,Medium
+702,Drought,Odisha,2022-03-26,High
+703,Landslide,Tamil Nadu,2021-12-22,Low
+704,Cyclone,Tamil Nadu,2023-01-05,High
+705,Flood,Tamil Nadu,2024-02-29,Low
+706,Drought,Gujarat,2023-10-06,High
+707,Earthquake,Assam,2021-07-04,Low
+708,Cyclone,Gujarat,,Medium
+709,Flood,Tamil Nadu,2022-02-17,Low
+710,Earthquake,Assam,2022-10-25,Low
+711,Flood,Assam,2021-10-18,Low
+712,Drought,Tamil Nadu,2023-02-05,High
+713,,Bihar,2022-11-21,Medium
+714,Earthquake,Assam,2023-06-14,High
+715,Landslide,Tamil Nadu,2024-02-25,High
+716,Drought,Tamil Nadu,2021-12-26,Medium
+717,Earthquake,Kerala,2021-01-04,High
+718,Drought,Bihar,2024-03-08,Low
+719,Cyclone,Tamil Nadu,2022-03-29,High
+720,Drought,West Bengal,2021-10-16,Medium
+721,,West Bengal,2022-10-17,Low
+722,,West Bengal,2022-11-19,Medium
+723,Flood,Kerala,2021-05-19,Medium
+724,Earthquake,West Bengal,2021-04-09,Medium
+725,Landslide,Bihar,2023-04-28,Medium
+726,Landslide,Tamil Nadu,2021-07-27,Medium
+727,Drought,Gujarat,2021-05-31,Low
+728,Earthquake,Odisha,2021-08-03,Low
+729,Earthquake,Assam,2021-11-26,High
+730,Flood,West Bengal,2023-09-16,High
+731,Flood,Bihar,2021-12-04,High
+732,Landslide,Assam,2022-11-10,Low
+733,Cyclone,Bihar,2024-01-12,Medium
+734,,Kerala,2021-07-16,Low
+735,Landslide,UP,2023-01-09,Low
+736,Landslide,West Bengal,2023-09-11,Low
+737,Flood,Odisha,2022-08-21,Low
+738,Landslide,West Bengal,2023-03-26,Medium
+739,Landslide,Kerala,2024-01-20,Medium
+740,Cyclone,Tamil Nadu,2023-01-27,Low
+741,Landslide,Odisha,2023-08-11,Medium
+742,Cyclone,Kerala,2021-11-06,High
+743,,West Bengal,2022-12-06,High
+744,Landslide,Gujarat,2023-03-04,High
+745,Landslide,UP,2022-04-28,Medium
+746,Earthquake,West Bengal,2021-03-13,High
+747,Drought,Assam,2023-07-09,Low
+748,Cyclone,Gujarat,2021-09-16,Low
+749,Landslide,West Bengal,2023-06-11,Low
+750,,Assam,2022-06-13,Medium
+751,,West Bengal,2024-02-14,Medium
+752,Drought,Tamil Nadu,2023-12-01,Medium
+753,Flood,Bihar,2021-11-03,Low
+754,Drought,West Bengal,2024-02-27,Low
+755,Earthquake,Tamil Nadu,2022-06-25,Medium
+756,,UP,2023-08-27,Low
+757,Cyclone,Kerala,2023-04-03,Low
+758,Landslide,Tamil Nadu,2021-04-11,High
+759,Landslide,Kerala,2021-02-11,Medium
+760,Earthquake,Kerala,2023-10-04,High
+761,,West Bengal,2022-04-12,Low
+762,Earthquake,UP,2022-10-20,Medium
+763,,Bihar,2021-07-02,Low
+764,Landslide,Gujarat,2023-04-14,High
+765,Landslide,Tamil Nadu,2023-11-22,Low
+766,Flood,Kerala,2023-04-07,Low
+767,Drought,Odisha,2022-02-16,Low
+768,Cyclone,Odisha,2023-01-09,High
+769,Cyclone,Kerala,2023-08-09,High
+770,Landslide,West Bengal,2022-05-11,Medium
+771,Landslide,UP,2023-08-30,High
+772,Drought,Tamil Nadu,2022-06-14,High
+773,,West Bengal,2023-03-03,Low
+774,Cyclone,Gujarat,2022-04-07,High
+775,Cyclone,Kerala,2023-11-18,Low
+776,,Odisha,2021-09-28,High
+777,Cyclone,Odisha,2022-09-18,High
+778,,Kerala,2023-02-11,Medium
+779,Landslide,Kerala,2022-09-11,High
+780,Drought,Bihar,2021-01-16,High
+781,,Tamil Nadu,2022-08-02,Medium
+782,,West Bengal,2022-11-20,Medium
+783,,Tamil Nadu,2022-06-19,High
+784,,Kerala,2023-11-26,Low
+785,Flood,Bihar,2021-10-14,High
+786,Flood,UP,2022-06-16,Medium
+787,Landslide,Bihar,2024-04-09,High
+788,Drought,Gujarat,2022-04-01,High
+789,Drought,UP,2023-01-05,High
+790,Earthquake,Assam,2024-02-18,Low
+791,Earthquake,West Bengal,2022-06-14,High
+792,Drought,Assam,2022-11-19,High
+793,Flood,Gujarat,2022-09-21,Medium
+794,Earthquake,Tamil Nadu,2022-08-26,Medium
+795,Flood,UP,2024-04-10,High
+796,Drought,West Bengal,2022-02-03,High
+797,Flood,Bihar,2023-04-27,Low
+798,Cyclone,Assam,2022-12-03,Medium
+799,Drought,UP,2022-01-05,Low
+800,Landslide,Tamil Nadu,2021-12-29,Medium
+801,,Odisha,,Medium
+802,Cyclone,Assam,2021-11-21,Medium
+803,Flood,Assam,2023-05-30,Medium
+804,Landslide,UP,2021-03-19,High
+805,Cyclone,Tamil Nadu,2022-10-22,High
+806,Cyclone,Odisha,2022-05-25,Low
+807,,Tamil Nadu,2021-07-30,Medium
+808,Drought,Kerala,2021-04-04,Medium
+809,Earthquake,UP,2023-12-10,Medium
+810,Landslide,Assam,2023-10-01,Medium
+811,Cyclone,Assam,2023-04-07,Low
+812,Cyclone,Gujarat,2021-09-26,Low
+813,,Odisha,2021-12-13,Low
+814,Earthquake,Odisha,2022-06-08,High
+815,Drought,Odisha,2021-04-09,High
+816,Flood,Odisha,,Low
+817,Landslide,UP,2024-01-26,Medium
+818,Landslide,Assam,2021-01-20,Medium
+819,Landslide,West Bengal,2022-07-07,High
+820,Drought,Assam,2021-08-03,High
+821,,West Bengal,2021-08-06,Medium
+822,Cyclone,Gujarat,2023-12-08,Low
+823,Earthquake,Bihar,2021-03-22,High
+824,Landslide,Gujarat,2023-09-12,Medium
+825,Cyclone,Odisha,,Low
+826,Flood,UP,2021-07-04,High
+827,Flood,West Bengal,2022-04-19,Medium
+828,Earthquake,Kerala,2021-07-24,Low
+829,Flood,Kerala,2022-10-03,Medium
+830,,West Bengal,2021-04-04,Low
+831,Cyclone,Assam,2023-06-16,High
+832,Earthquake,West Bengal,2022-12-03,Low
+833,Flood,Bihar,2023-07-24,Medium
+834,Landslide,UP,2021-12-08,Low
+835,Cyclone,Odisha,2021-11-23,Low
+836,Landslide,UP,2023-06-17,Low
+837,Drought,Bihar,2021-03-01,High
+838,,Assam,2023-09-27,Low
+839,Landslide,UP,,Medium
+840,,Tamil Nadu,,High
+841,Drought,Gujarat,2022-11-24,High
+842,Drought,West Bengal,2022-05-25,Medium
+843,Earthquake,Bihar,2024-02-18,High
+844,Flood,Odisha,2021-11-18,High
+845,Landslide,UP,2021-06-03,Medium
+846,Earthquake,Gujarat,2022-07-24,Low
+847,Drought,Gujarat,2023-02-15,Medium
+848,Cyclone,West Bengal,2024-03-19,Medium
+849,Flood,UP,2021-09-01,Medium
+850,,Odisha,2023-04-25,Low
+851,Drought,Odisha,2022-09-16,High
+852,Drought,Gujarat,2023-07-24,Medium
+853,Earthquake,Odisha,2023-07-20,Medium
+854,Drought,UP,2023-01-15,High
+855,Landslide,West Bengal,2022-03-31,Low
+856,Earthquake,Tamil Nadu,2022-08-21,High
+857,Drought,Tamil Nadu,2021-04-04,Low
+858,Landslide,Assam,2023-04-19,Low
+859,Earthquake,Gujarat,2023-03-16,Low
+860,Landslide,Gujarat,2021-08-09,Medium
+861,Flood,West Bengal,2023-07-12,Medium
+862,,Assam,2021-01-09,High
+863,,Odisha,2023-06-06,High
+864,Landslide,Assam,2021-12-22,High
+865,Cyclone,West Bengal,2022-10-22,High
+866,Landslide,Bihar,2022-05-24,Medium
+867,Landslide,Tamil Nadu,2023-07-17,Low
+868,Cyclone,Bihar,2023-11-16,Medium
+869,,Tamil Nadu,2024-02-08,High
+870,Cyclone,Gujarat,2022-08-19,High
+871,Earthquake,Assam,2021-12-31,High
+872,Drought,Tamil Nadu,2022-12-23,High
+873,Landslide,Bihar,2023-12-30,Medium
+874,Landslide,Odisha,2021-02-21,Medium
+875,Cyclone,Odisha,2022-02-14,Medium
+876,Cyclone,Kerala,2021-10-27,Low
+877,,Kerala,2024-01-14,Low
+878,Earthquake,UP,2024-02-25,Low
+879,,Bihar,2022-08-13,High
+880,,Odisha,2023-03-05,Medium
+881,,Tamil Nadu,2021-04-21,Low
+882,,Kerala,2023-06-27,Low
+883,,Tamil Nadu,2024-01-25,High
+884,Drought,Gujarat,2022-02-01,Medium
+885,Landslide,Assam,2021-06-02,Low
+886,Cyclone,West Bengal,2023-05-28,Medium
+887,Drought,Kerala,2024-04-11,Medium
+888,Flood,Tamil Nadu,2021-11-14,Low
+889,Cyclone,Tamil Nadu,2022-09-09,Medium
+890,Drought,Tamil Nadu,2022-10-13,High
+891,Cyclone,Assam,2023-11-01,Low
+892,Landslide,Bihar,2022-03-30,Low
+893,,Tamil Nadu,2022-08-25,Low
+894,Drought,UP,2021-01-19,Low
+895,,Tamil Nadu,2022-05-15,Low
+896,,Tamil Nadu,2021-08-21,Medium
+897,Earthquake,Kerala,,High
+898,Earthquake,UP,2022-08-31,High
+899,Cyclone,Tamil Nadu,2021-07-16,Low
+900,Drought,Odisha,2022-03-08,High
+901,,Gujarat,2023-05-19,Low
+902,Cyclone,Bihar,2021-05-28,High
+903,,Assam,,High
+904,Earthquake,Odisha,2021-04-22,Low
+905,Earthquake,West Bengal,2022-04-12,Medium
+906,Landslide,Bihar,2023-04-09,Medium
+907,Earthquake,Odisha,2021-08-31,High
+908,Flood,West Bengal,2024-04-14,Low
+909,,West Bengal,2023-10-27,Low
+910,Earthquake,Kerala,2022-07-31,Medium
+911,Landslide,Bihar,2021-03-05,Medium
+912,Cyclone,Gujarat,2023-03-12,High
+913,Earthquake,Assam,2023-02-04,Low
+914,Drought,Assam,2021-01-11,High
+915,Drought,Bihar,2021-06-24,Medium
+916,Cyclone,Tamil Nadu,2023-11-16,Low
+917,Cyclone,Assam,2022-06-02,Low
+918,Flood,Assam,2024-03-07,Low
+919,Drought,UP,2021-05-30,Medium
+920,,West Bengal,2022-02-09,High
+921,Drought,UP,2023-01-02,Low
+922,,Gujarat,2021-05-23,Low
+923,Earthquake,UP,2022-09-19,High
+924,Drought,Assam,2023-01-17,Medium
+925,Landslide,Assam,,Low
+926,Cyclone,Bihar,2023-01-07,Low
+927,,Tamil Nadu,2023-08-06,Medium
+928,Earthquake,Kerala,2021-08-11,Low
+929,,West Bengal,2021-10-14,High
+930,Cyclone,Kerala,2021-06-06,High
+931,Flood,Odisha,2021-03-05,High
+932,Drought,Bihar,2022-03-12,Low
+933,Drought,Kerala,2024-01-11,Medium
+934,,Assam,2022-04-03,High
+935,,Kerala,2023-10-24,High
+936,Flood,Bihar,2021-01-22,High
+937,Cyclone,Assam,2021-10-15,Medium
+938,Cyclone,Assam,2024-03-04,High
+939,Cyclone,UP,2021-03-24,Low
+940,Landslide,Gujarat,2023-01-27,Low
+941,Flood,Gujarat,2023-01-10,Medium
+942,Landslide,UP,2021-03-23,High
+943,Earthquake,West Bengal,2023-12-04,High
+944,Earthquake,Kerala,2024-03-13,Low
+945,Landslide,Bihar,2021-06-09,High
+946,Earthquake,Bihar,2022-04-02,High
+947,Landslide,Tamil Nadu,2022-12-08,Medium
+948,Landslide,Odisha,2021-10-12,Medium
+949,Cyclone,Gujarat,2022-07-30,Low
+950,Cyclone,Assam,2021-08-31,High
+951,Cyclone,Bihar,2021-08-21,Medium
+952,,UP,2021-11-27,High
+953,Landslide,Odisha,2021-09-19,High
+954,Drought,Assam,2023-11-16,Low
+955,Drought,Assam,2022-06-13,Low
+956,Drought,Bihar,2024-02-29,High
+957,Flood,Kerala,2022-03-20,Medium
+958,Drought,UP,2021-12-16,Low
+959,Landslide,Assam,2022-01-08,High
+960,,Kerala,2022-12-03,Medium
+961,Drought,West Bengal,2023-03-01,Low
+962,Flood,Odisha,2023-10-30,High
+963,Landslide,Assam,2021-12-30,Medium
+964,Drought,Odisha,2023-12-25,High
+965,Flood,West Bengal,2021-09-24,High
+966,Drought,Odisha,2023-06-03,High
+967,Landslide,Tamil Nadu,2023-12-22,Medium
+968,Cyclone,UP,2023-02-20,Medium
+969,Drought,West Bengal,2022-06-06,Medium
+970,Cyclone,West Bengal,2024-01-19,Medium
+971,Earthquake,Gujarat,,High
+972,Flood,West Bengal,2023-02-08,High
+973,Cyclone,Tamil Nadu,2021-08-07,Low
+974,Landslide,Kerala,2024-01-03,Medium
+975,Drought,Tamil Nadu,2023-03-25,Low
+976,Landslide,UP,2024-02-20,High
+977,Landslide,Kerala,2024-03-29,Medium
+978,,Bihar,2021-09-01,High
+979,Cyclone,UP,2021-11-28,Low
+980,Cyclone,Bihar,2024-02-02,High
+981,,Odisha,2021-01-11,Low
+982,Cyclone,UP,2023-06-11,Low
+983,Flood,Kerala,2021-06-13,High
+984,Flood,Bihar,2023-04-01,High
+985,,Kerala,2021-04-28,Low
+986,,UP,2022-02-18,High
+987,Drought,Kerala,2023-11-12,High
+988,,Gujarat,2021-03-15,Medium
+989,Cyclone,Odisha,2021-06-27,Medium
+990,Landslide,Tamil Nadu,2023-04-11,High
+991,Cyclone,Odisha,2021-05-21,Low
+992,Drought,Kerala,2024-02-20,High
+993,Earthquake,Tamil Nadu,2022-07-21,Low
+994,Drought,Gujarat,2023-04-08,High
+995,Flood,Kerala,2023-11-03,Low
+996,Drought,West Bengal,2022-11-28,Low
+997,Drought,Kerala,2024-03-23,Medium
+998,,UP,2024-02-28,Medium
+999,Cyclone,Tamil Nadu,2023-07-29,High
+1000,Landslide,Odisha,2022-06-13,Low
+522,Landslide,Tamil Nadu,2021-07-15,High
+738,Landslide,West Bengal,2023-03-26,Medium
+741,Landslide,Odisha,2023-08-11,Medium
+661,Earthquake,West Bengal,2021-04-18,Low
+412,Earthquake,Tamil Nadu,2023-01-19,Low
+679,Earthquake,UP,2021-09-03,Low
+627,,Assam,2024-02-28,Low
+514,Earthquake,Kerala,,High
+860,Landslide,Gujarat,2021-08-09,Medium
+137,,Tamil Nadu,,Medium
+812,Cyclone,Gujarat,2021-09-26,Low
+77,Cyclone,Gujarat,2022-12-26,High
+637,Drought,West Bengal,2021-01-25,Medium
+974,Landslide,Kerala,2024-01-03,Medium
+939,Cyclone,UP,2021-03-24,Low
+900,Drought,Odisha,2022-03-08,High
+281,,Kerala,,Medium
+884,Drought,Gujarat,2022-02-01,Medium
+762,Earthquake,UP,2022-10-20,Medium
+320,Drought,Odisha,2021-09-26,High
+550,Landslide,Tamil Nadu,2021-10-06,Medium
+175,Flood,Odisha,2022-10-23,High
+372,Drought,Kerala,2023-10-03,Low
+528,,Tamil Nadu,2021-10-14,High
+211,Drought,Assam,2021-06-11,High
+236,Landslide,UP,2024-01-12,Medium
+102,Flood,Odisha,2023-09-01,High
+987,Drought,Kerala,2023-11-12,High
+903,,Assam,,High
+948,Landslide,Odisha,2021-10-12,Medium
+347,Flood,Tamil Nadu,2022-12-08,Low
+140,Earthquake,UP,2022-07-04,Medium
+622,Drought,Gujarat,2023-07-01,Low
+500,Landslide,UP,2023-08-20,Medium
+371,Flood,Kerala,2023-07-03,Low
+199,Earthquake,UP,2023-02-20,Medium
+688,Flood,Gujarat,2023-06-28,Low
+585,Landslide,Assam,2023-05-17,Low
+902,Cyclone,Bihar,2021-05-28,High
+60,Drought,Tamil Nadu,2022-02-23,High
+329,Earthquake,West Bengal,2022-07-13,Medium
+97,Earthquake,Gujarat,2024-04-02,High
+313,Cyclone,Tamil Nadu,2023-03-14,Low
+975,Drought,Tamil Nadu,2023-03-25,Low
+300,Drought,Odisha,2021-06-01,Medium
+278,,Bihar,2023-06-25,Medium
+925,Landslide,Assam,,Low
+602,Drought,Assam,2022-08-23,Medium
+440,Cyclone,Odisha,2021-11-20,Medium
+838,,Assam,2023-09-27,Low
