@@ -167,7 +167,7 @@ Each dashboard is generated in Matplotlib from the results of a live SQL query r
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/disaster-region-tracker.git
+   git clone https://github.com/PATHAN-0716/yourusername/disaster-region-tracker.git
    ```
 2. Open `Disaster_Affected_Region_Tracker.ipynb` in Google Colab (or Jupyter with a local MySQL server).
 3. Run the setup cell to install MySQL server and Python dependencies (Colab-specific; skip if MySQL is already running locally).
